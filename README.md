@@ -27,13 +27,13 @@ Enjoy your API!
 
 ### Booking-app-backend
 
-- [x] Milestone 1: Setup the project for backend (group task) #1'
+- [x] Milestone 1: Setup the project for backend (group task) 
 - [x] Milestone 2: Implement (Djoser)devise gem
 - [x] Milestone 3: Pytest test user
 - [x] Milestone 4: Generate table and model for the Doctor 
 - [x] Milestone 5: Generate table and model for the Reservation
-- [x] Milestone 6: Rspec for Reservation 
-- [x] Milestone 7: Rspec for Doctor
+- [x] Milestone 6: Pytest for Reservation 
+- [x] Milestone 7: Pytest for Doctor
 - [x] Milestone 8: Implement pytest
 - [x] Milestone 9: Create Documentation
 
