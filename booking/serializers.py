@@ -1,4 +1,3 @@
-from email.policy import default
 from .models import Doctor, Reservation
 from rest_framework import serializers
 class DoctorSerializer(serializers.ModelSerializer):

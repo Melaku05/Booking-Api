@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'djoser',
     'booking',
+    'drf_yasg',
 ]
 
 MIDDLEWARE = [
@@ -158,7 +159,7 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-AUTH_USER_MODEL = 'core.User'
+AUTH_USER_MODEL = 'core.user'
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
